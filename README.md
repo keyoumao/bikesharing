@@ -4,7 +4,7 @@
 
 ### Question:
 
- <span style = "color: blue"> Shall we open a bike-sharing business in Des Moine?</span>
+ <span style = "color:blue"> Shall we open a bike-sharing business in Des Moine?</span>
 
 [link to dashboard](https://public.tableau.com/profile/keyoumao#!/vizhome/DMCbikeshare/BikeShare?publish=yes "link to dashboard")
 
